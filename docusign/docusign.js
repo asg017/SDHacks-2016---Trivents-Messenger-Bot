@@ -18,7 +18,7 @@ const userInfo = {
 
 let integratorKey = "ex-key",
     email = "sfakeemailgmail.com",
-    password = fakepass",
+    password = "fakepass",
     recipientName = userInfo.name,
     recipientEmail = "fakeemaila";  //using my own email to not spam users
 
