@@ -31,7 +31,7 @@ function updateWorkingItem(userId, eventId, callback) {
 	});
 }
 
-updateWorkingItem("
+//updateWorkingItem("
 function updateEmail(userId, email, callback) {
 	connect(function(err, db) {
 		if(err) {
