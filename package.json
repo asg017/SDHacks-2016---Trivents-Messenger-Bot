@@ -1,0 +1,32 @@
+{
+  "name": "SDHACKS_16",
+  "version": "0.0.0",
+  "description": "SDHacks 2-16 Product yo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://git.heroku.com/sdhacks16-a.git"
+  },
+  "keywords": [
+    "Messenger",
+    "Bot",
+    "SDHacks",
+    "UCSD",
+    "UCLA"
+  ],
+  "author": "Alex Garcia",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "~1.15.2",
+    "cheerio": "~0.22.0",
+    "docusign-esign": "^2.0.3",
+    "express": "~4.14.0",
+    "mongodb": "~2.2.10",
+    "request": "~2.75.0"
+  }
+}
